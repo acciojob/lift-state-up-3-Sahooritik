@@ -1,1 +1,17 @@
 
+.parent{
+    background-color: rgb(95, 228, 83);
+    padding: 10px;
+    width: fit-content;
+}
+
+.child1{
+    background-color: rgb(150, 87, 50);
+    padding: 10px;
+}
+
+
+.child2{
+    background-color: yellow;
+    padding: 10px;
+}
